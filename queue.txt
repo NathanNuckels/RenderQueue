@@ -1,1 +1,0 @@
-blender example.blend -o "0/####.png" -f 1
